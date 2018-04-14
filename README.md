@@ -1,1 +1,1 @@
-# academy-pacman-master
+# Coding Dojo Ninjaman
